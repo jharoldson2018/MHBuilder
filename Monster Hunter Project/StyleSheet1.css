@@ -1,0 +1,65 @@
+﻿body {
+ background-image: url('img/F9p4m5Hy-_xvduMwy8T9USISrtvb3mbtU116M-hku-Q.jpg');
+}
+span {
+    
+    color: black;
+    border-style: solid;
+    padding: 3px;
+    margin: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    opacity:1;
+    
+    
+}
+br{
+    display:block;
+    margin:10px;
+}
+div label {
+    text-align: center;
+    overflow-wrap: break-word;
+}
+.ow-break-word {
+    overflow-wrap: break-word;
+}
+span{
+    display: flex;
+    font-family:'Comic Sans MS';
+}
+.button{
+
+   background-color: red;
+}
+div[type=button] {
+    background-color: none;
+   
+    border:none
+}
+.card-body {
+   background-color: rgba(1,1,1,0.5);
+   
+  
+}
+#helm_name{
+    font-size: 42px;
+}
+#weapon_name {
+    font-size: 42px;
+}
+#name2 {
+    font-size: 42px;
+}
+#name3 {
+    font-size: 42px;
+}
+#name4 {
+    font-size: 42px;
+}
+#name5{
+    font-size: 42px;
+}
+#Label1{
+    font-size: 42px;
+}

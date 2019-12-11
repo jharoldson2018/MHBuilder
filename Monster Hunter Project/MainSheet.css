@@ -1,0 +1,82 @@
+﻿body {
+}
+div{
+
+}
+.mainframe {
+    width: 877px;
+    height: 527px;
+    position: absolute;
+    left: calc(50% - 400px);
+    top: calc(50% - 250px);
+    background: rgba(0,0,0,0.85);
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+}
+.equippieceui {
+    display: block;
+    border-radius: 5px;
+    border: 1px solid #7c7c7c;
+    height: 68px;
+    margin-top: 3px;
+    background: rgba(50,50,50,0.85);
+    margin-left: 3px;
+    margin-right: 196px;
+}
+#weaponequip {
+    padding-bottom: 3px;
+    height: 78px;
+    margin-right: 3px;
+    visibility: hidden;
+}
+.equipname {
+    color: #FFFFFF;
+    height: 15px;
+    width: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-size: 18px;
+    padding-left: 70px;
+    padding-bottom: 3px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
+    text-align: center;
+    background: black;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.equipborder {
+    margin-left: 3px;
+    margin-top: -17px;
+    position: absolute;
+    border-radius: 5px;
+}
+.equipicon {
+    margin-left: 6px;
+    margin-top: -14px;
+    position: absolute;
+    cursor: pointer;
+    width: 44px;
+    height: 44px;
+}
+#wepstatcont {
+    margin-left: 55px;
+    margin-top: 0px;
+    border: none;
+    vertical-align: top;
+    float: none;
+}
+.statcont {
+    padding: 2px;
+    display: inline-block;
+    float: right;
+    border-radius: 5px;
+    margin-top: 0px;
+    margin-right: 1px;
+    width: auto;
+}
+div header
