@@ -1,0 +1,21 @@
+//Jason Haroldson
+//MART 391
+//Sept 6, 2019
+
+
+
+Monster Hunter World Comprehensive User Interface Build Guide System
+
+The goal of my project is to make a Comprehensive database with the weapons, armor, and other misc.
+items with a front end that the users can use to search the database to make their own builds of various types
+for different weapons to test which abilities they might need, materials they need to make said equipment.
+
+things i might need
+database to store equipment - including statistics for the weapon including sharpness,
+damage types, damage numbers, material costs, upgrade from and to, armor traits, etc.
+
+front end UI - shows which items are currently equip, item set inventory, list of builds, login/logout
+
+admin/IT to add or update database for expansion content
+
+for CS upscaling - i thought about porting this to mobile and hopefully make it function well on mobile
